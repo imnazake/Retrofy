@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retrofy", "Retrofy\Retrofy.csproj", "{9505257A-6EB9-4AF1-B56E-3CE69BE3C170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9505257A-6EB9-4AF1-B56E-3CE69BE3C170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9505257A-6EB9-4AF1-B56E-3CE69BE3C170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9505257A-6EB9-4AF1-B56E-3CE69BE3C170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9505257A-6EB9-4AF1-B56E-3CE69BE3C170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23F5AE58-F673-49F2-9002-02A7D1902AD1}
+	EndGlobalSection
+EndGlobal
