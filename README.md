@@ -19,3 +19,6 @@ A lightweight tool designed for indie developers and pixel artists to **downscal
 ```bash
 git clone https://github.com/imnazake/Retrofy.git
 ```
+
+## Preview
+![](Images/preview.png)
