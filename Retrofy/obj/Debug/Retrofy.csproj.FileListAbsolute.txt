@@ -1,0 +1,11 @@
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\bin\Debug\Retrofy.exe.config
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\bin\Debug\Retrofy.exe
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\bin\Debug\Retrofy.pdb
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\obj\Debug\Retrofy.csproj.AssemblyReference.cache
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\obj\Debug\Retrofy.MainForm.resources
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\obj\Debug\Retrofy.Properties.Resources.resources
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\obj\Debug\Retrofy.csproj.GenerateResource.cache
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\obj\Debug\Retrofy.csproj.CoreCompileInputs.cache
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\obj\Debug\Retrofy.exe
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\obj\Debug\Retrofy.pdb
+C:\Users\Nazake\Documents\Projects\Retrofy\Retrofy\obj\Debug\Retrofy.exe.config
